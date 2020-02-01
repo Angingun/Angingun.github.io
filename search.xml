@@ -4,26 +4,12 @@
     <title>在Anaconda3中运行python2</title>
     <url>/2020/02/01/%E5%9C%A8Anaconda3%E4%B8%AD%E8%BF%90%E8%A1%8Cpython2/</url>
     <content><![CDATA[<h1>在Anaconda3中使用python2</h1>
-<!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
-<!-- code_chunk_output -->
-<ul>
-<li><a href="#anaconda">Anaconda简介</a></li>
-<li><a href="#%E4%BD%BF%E7%94%A8anaconda3%E8%BF%90%E8%A1%8Cpython2%E7%9A%84%E5%8E%9F%E5%9B%A0">使用Anaconda3运行python2的原因</a></li>
-<li><a href="#%E5%9C%A8anaconda3%E4%B8%8B%E5%88%9B%E5%BB%BApython2%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83">在Anaconda3下创建python2虚拟环境</a>
-<ul>
-<li><a href="#%E5%AE%89%E8%A3%85anaconda3">安装Anaconda3</a></li>
-<li><a href="#%E4%BD%BF%E7%94%A8conda%E5%88%9B%E5%BB%BApython2%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83">使用conda创建python2虚拟环境</a></li>
-<li><a href="#%E5%9C%A8ide%E4%B8%AD%E5%88%87%E6%8D%A2%E7%BC%96%E8%AF%91%E5%99%A8">在IDE中切换编译器</a></li>
-</ul>
-</li>
-</ul>
-<!-- /code_chunk_output -->
-<a id="more"></a>
 <hr>
 <h2 id="Anaconda简介">Anaconda简介</h2>
 <p>Anaconda 是一个用于科学计算的 Python 发行版，支持 Linux, Mac, Windows, 包含了众多流行的科学计算、数据分析的 Python 包。</p>
 <p>Anaconda 能完美解决Python2 和 Python3 的共存问题。</p>
 <p>同时解决了Python开发者的两大痛点。</p>
+<a id="more"></a>
 <p>第一：提供包管理，功能类似于<code>pip</code>，Windows 平台安装第三方包经常失败的场景得以解决。<br>
 第二：提供虚拟环境管理，功能类似于 <code>virtualenv</code>，解决了多版本Python并存问题。</p>
 <p><code>conda</code> 是 Anaconda 下用于包管理和环境管理的命令行工具，是 <code>pip</code> 和 <code>vitualenv</code> 的组合。安装成功后 <code>conda</code> 会默认加入到环境变量中，因此可直接在命令行窗口运行 <code>conda</code> 命令。对虚拟环境进行创建、删除等操作需要使用<code>conda</code>命令。</p>
