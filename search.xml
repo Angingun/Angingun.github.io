@@ -3,8 +3,7 @@
   <entry>
     <title>在Anaconda3中运行python2</title>
     <url>/2020/02/01/%E5%9C%A8Anaconda3%E4%B8%AD%E8%BF%90%E8%A1%8Cpython2/</url>
-    <content><![CDATA[<h1>在Anaconda3中使用python2</h1>
-<hr>
+    <content><![CDATA[<hr>
 <h2 id="Anaconda简介">Anaconda简介</h2>
 <p>Anaconda 是一个用于科学计算的 Python 发行版，支持 Linux, Mac, Windows, 包含了众多流行的科学计算、数据分析的 Python 包。</p>
 <p>Anaconda 能完美解决Python2 和 Python3 的共存问题。</p>
