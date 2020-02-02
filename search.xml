@@ -117,36 +117,19 @@
       </tags>
   </entry>
   <entry>
-    <title>A beginning</title>
+    <title>Hello World</title>
     <url>/2020/01/31/article-title/</url>
-    <content><![CDATA[<h2 id="hello-world">hello world!</h2>
-<p>This is my blog constructed with Git Pages and Hexo and the theme is cloned from github. I’d like to  use this md to preview what the blog is like.</p>
-<blockquote>
-<p>here is reference</p>
-</blockquote>
+    <content><![CDATA[<p>Here is Qingrun’s personal blog website.<br>
+Several days ago, a thought of building my own blog flashed through my mind. So here it is.<br>
+I always browse through loads of information to satisfy my pure curiosity while nothing was gained or absorbed into my mind. Undoubtedly, Much information is superficial and meaningless while others are more or less proper to dive deeper, such as mathematics, python and body-building, which I should not let them go away easily.</p>
+<a id="more"></a>
+<p>As a newbie to python, I encountered masses of problems like the installation failure of libs and unexpected codes errors. A recent downloading of NLTK datasets and corpora was a torturing experience but the process of finding solutions brought me a sense of achievement. Since I am not majoring in field, I easily forget the solutions after a period of time and will be trapped by similar problems. Taking a record for future reference could help, to me or my friends.<br>
+This web is constructed with Git Pages and Hexo and the theme is cloned from NexT, a open source project on Github. I gave up Jekyll which is recommended by Git Pages, because it is programmed in Ruby and unfriendly to Windows users. The alternative option is Hexo, which is suggested in a tutorial by a CS graduate of ECNU. I also learned a lot from it but I do not like his blog style/theme. With the ready-made theme of NexT, I made some moderate modification on the <code>_config</code> file and then pushed it to Git Pages. Done!<br>
+Many websites provide blog services, like <a href="http://Jianshu.com" target="_blank" rel="noopener">Jianshu.com</a>, <a href="http://weibo.com" target="_blank" rel="noopener">weibo.com</a>, but I just want to build my own which is highly customized and without any limitations imposed by the service provider. This blog is still under further improvement. The comments plugin, Disqus is blocked by the Great Fire Wall and a replacement will be put into place soon. This web cannot be searched in Baidu because its host is not within the country and Baidu spider is blocked.<br>
+I still have no idea on what will be updated. I am sure it won’t be a diary-like thing, depicting feeling or emotions. Naive! The content will be objective I believe.</p>
 ]]></content>
       <tags>
         <tag>intro</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/01/31/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start">Quick Start</h2>
-<a id="more"></a>
-<h3 id="Create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
   </entry>
 </search>
