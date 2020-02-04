@@ -3,7 +3,8 @@
   <entry>
     <title>xlwings的基本用法</title>
     <url>/2020/02/04/xlwings%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/</url>
-    <content><![CDATA[<p>xlwings的特色</p>
+    <content><![CDATA[<hr>
+<p>xlwings的特色</p>
 <pre><code>* xlwings能够非常方便的读写Excel文件中的数据，并且能够进行单元格格式的修改
 * 可以和matplotlib以及pandas无缝连接
 * 可以调用Excel文件中VBA写好的程序，也可以让VBA调用用Python写的程序。
@@ -144,7 +145,8 @@
   <entry>
     <title>Hello World</title>
     <url>/2020/01/31/article-title/</url>
-    <content><![CDATA[<p>Here is Qingrun’s personal blog website.</p>
+    <content><![CDATA[<hr>
+<p>Here is Qingrun’s personal blog website.</p>
 <a id="more"></a>
 <p>Several days ago, a thought of building my own blog flashed through my mind. So here it is.<br>
 I always browse through loads of information to satisfy my pure curiosity while nothing was gained or absorbed into my mind. Undoubtedly, Much information is superficial and meaningless while others are more or less proper to dive deeper, such as mathematics, python and body-building, which I should not let them go away easily.</p>
